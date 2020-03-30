@@ -25,7 +25,6 @@ These instructions will get you a basic requirements to run this project.
 - You will also see any lint errors in the console.
 
 ### `BUILT WITH`
-- Javascript
 - React Native Expo
 
 
